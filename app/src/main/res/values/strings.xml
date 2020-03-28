@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="title1">COVID-19</string>
+    <string name="article1">The dataset, which has been dubbed CORD-19, short for COVID-19 Open Research Dataset, was built by a collaboration of organizations spanning different sectors:
+
+Microsoft contributed its literature curation tools.
+The Allen Institute for AI, one of the research institutes founded by the late Microsoft co-founder Paul Allen, transformed the content into a form that would be machine readable.
+The National Institutes of Health’s National Library of Medicine provided access to literature content.
+The Chan Zuckerberg Initiative — the philanthropic vehicle launched by Facebook founder Mark Zuckerberg and his wife, the pediatrician Priscilla Chan — provided access to articles that have been posted on preprint servers but not yet peer-reviewed.
+Georgetown University’s Center for Security and Emerging Technology coordinated the initiative.
+The creation of the dataset was requested by the White House’s Office of Science and Technology Policy, which hosted a call for reporters on Monday to get the word out about the dataset.
+Michael Kratsios, the U.S. chief technology officer, told reporters that the Trump administration is issuing “a call to action” to the tech community to use the dataset to develop AI techniques and insights that could be useful in the response to the coronavirus.</string>
+
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTÍCULO: Me Gusta</string>
+    <string name="no_message">ARTÍCULO: Gracias</string>
+    <string name="question_article">Te Gustó el Artículo?</string>
+
+    <!-- Text for the button in FragmentExample2. -->
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Segunda parte</string>
+</resources>
